@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "customerName": "John Doe",
+    "items": [
+      {
+        "product": "Product 1",
+        "quantity": 2
+      },
+      {
+        "product": "Product 2",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "customerName": "Jane Smith",
+    "items": [
+      {
+        "product": "Product 3",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "customerName": "Alice Johnson",
+    "items": [
+      {
+        "product": "Product 2",
+        "quantity": 3
+      },
+      {
+        "product": "Product 4",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "customerName": "Joh Doe",
+    "items": [
+      {
+        "product": "Product 1",
+        "quantity": "2"
+      },
+      {
+        "product": "Product 2",
+        "quantity": "1"
+      }
+    ]
+  }
+]
